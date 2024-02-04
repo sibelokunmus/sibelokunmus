@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Sibel Okunmus
+- 👋 Hi, I’m Sibel 
 - 👀 I’m interested in Html,Css,React, Js 
-- 🌱 I’m currently learning Html,Css,React, Js
+- 🌱 My workspace Html,Css,React, Js
 - 💞️ I’m looking to collaborate on Html,Css,React, Js
 - 📫 How to reach me sibelokunmus@gmail.com
 
