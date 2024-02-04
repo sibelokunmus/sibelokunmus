@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning Html,css,react, js
 - 💞️ I’m looking to collaborate on Html,css,react, js
 - 📫 How to reach me sibelokunmus@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 
 <!---
 sibelokunmus/sibelokunmus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
